@@ -6,10 +6,11 @@ Estou construindo uma nova etapa da minha trajetória profissional, unindo minha
 
 ---
 
-### 🎓 Atualmente estudando
-- 🎓 **Tecnólogo em Segurança da Informação**
+### 🎓 Atualmente estudando (UniFran - Cruzeiro do Sul Virtual)
+- 🛡️ **Tecnólogo em Segurança da Informação**
 - 💻 **Desenvolvimento Web** e fundamentos de programação
 - 🔎 **Conceitos relacionados à segurança, tecnologia e proteção de dados**
+
 
 ---
 
