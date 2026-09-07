@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Neo
+# Olá! 👋 Eu sou Néo
 
 **Gestão em Processos Gerenciais** | Atualmente estudante de **Tecnologia em Segurança da Informação**
 
